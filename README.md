@@ -4,7 +4,7 @@ NumberToWordConverter maven project (Virtusa programming question)
 Steps to build and run the project:
 --------------------------------------
 
-Note* : For all steps corresponding screen shots are provided in the the screen-shots folder
+Note* : For all the below steps,  corresponding screen shots are provided in the screen-shots folder
 
 1. Clone the numbertowordconverter project to local system (ScreenShot-1).
 2. Open command prompt and navigate to numbertowordconverter folder (ScreenShot-2)
